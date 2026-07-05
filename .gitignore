@@ -1,0 +1,44 @@
+# ── Large data / caches — regenerable from the public sources (see README) ──
+results/brainspan_cache/
+results/ahba_region_gene_LH.csv
+abide2_matrices/
+abide2_matrices_v1_noregress/
+abide2_matrices_v2_motion/
+processed_matrices/
+**/hbn_processed_matrices/
+
+# ── Per-subject tables (subject data lives in the public releases; not redistributed here) ──
+results/qc_subject_table.csv
+
+# ── Superseded working figures / intermediate outputs ──
+results/Fig_*.png
+results/Fig_*.pdf
+results/*.log
+
+# ── Superseded or out-of-scope scripts ──
+assemble_figures.py
+replot_300dpi.py
+make_figures.py
+retrieval_demo.py
+scaffold_*.py
+
+# ── Manuscript & submission-internal documents (not part of the code release) ──
+manuscript_*.tex
+manuscript_*.pdf
+manuscript_*.md
+manuscript_*.docx
+manuscript_*.aux
+manuscript_*.log
+manuscript_*.out
+MANUSCRIPT*.md
+FINDINGS.md
+cover_letter*.md
+submission_checklist*.md
+data_access_emails.md
+
+# ── Python / OS ──
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+.ipynb_checkpoints/

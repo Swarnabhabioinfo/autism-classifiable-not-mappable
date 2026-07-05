@@ -1,0 +1,111 @@
+{
+  "n_lh_regions": 50,
+  "n_genes": 15633,
+  "n_sfari_in_ahba": 602,
+  "enrichment_auc": 0.5031368726116635,
+  "p_naive": 0.3968847405422026,
+  "p_spin": 0.6863136863136863,
+  "null_auc_mean": 0.5078772269867081,
+  "top_genes": [
+    {
+      "gene": "HECA",
+      "r": 0.7406002400959357,
+      "sfari": false
+    },
+    {
+      "gene": "ZNF124",
+      "r": 0.735798319327629,
+      "sfari": false
+    },
+    {
+      "gene": "SLC16A8",
+      "r": -0.714093637454883,
+      "sfari": false
+    },
+    {
+      "gene": "SPHK2",
+      "r": 0.7134213685473202,
+      "sfari": false
+    },
+    {
+      "gene": "ZBTB45",
+      "r": 0.7116926770707296,
+      "sfari": false
+    },
+    {
+      "gene": "SLCO4A1",
+      "r": 0.7036254501799745,
+      "sfari": false
+    },
+    {
+      "gene": "LYNX1",
+      "r": 0.7013205282111872,
+      "sfari": false
+    },
+    {
+      "gene": "RASL10B",
+      "r": 0.6948859543816563,
+      "sfari": false
+    },
+    {
+      "gene": "DIRAS1",
+      "r": 0.6890276110443223,
+      "sfari": false
+    },
+    {
+      "gene": "NFIB",
+      "r": -0.68883553421359,
+      "sfari": true
+    },
+    {
+      "gene": "SOHLH1",
+      "r": 0.6857623049218736,
+      "sfari": false
+    },
+    {
+      "gene": "CLEC2L",
+      "r": 0.6847058823528461,
+      "sfari": false
+    },
+    {
+      "gene": "FANCL",
+      "r": -0.6844177671067478,
+      "sfari": false
+    },
+    {
+      "gene": "SMIM14",
+      "r": -0.6842256902760155,
+      "sfari": false
+    },
+    {
+      "gene": "CREG1",
+      "r": -0.6841296518606496,
+      "sfari": false
+    },
+    {
+      "gene": "ASCC3",
+      "r": -0.6792316926769767,
+      "sfari": false
+    },
+    {
+      "gene": "TTLL12",
+      "r": 0.6760624249698943,
+      "sfari": false
+    },
+    {
+      "gene": "TTC32",
+      "r": -0.6756782713084297,
+      "sfari": false
+    },
+    {
+      "gene": "ATF4",
+      "r": 0.6727010804320797,
+      "sfari": false
+    },
+    {
+      "gene": "OSBPL3",
+      "r": 0.672220888355249,
+      "sfari": false
+    }
+  ]
+}

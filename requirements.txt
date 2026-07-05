@@ -1,0 +1,10 @@
+# Python 3.10. Install into a fresh environment (conda or venv).
+numpy
+scipy
+pandas
+scikit-learn
+statsmodels
+nilearn>=0.10
+abagen
+matplotlib
+torch            # BrainNetCNN baseline + loading the SFARI expression graph
