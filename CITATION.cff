@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata below."
+title: "Autism is classifiable but not spatially mappable from functional connectivity: a two-cohort benchmark and a brain–transcriptome null"
+type: software
+authors:
+  - family-names: Chowdhury
+    given-names: Swarnabha
+    affiliation: "Translational Bioinformatics Group, International Centre for Genetic Engineering and Biotechnology (ICGEB), New Delhi, India"
+  - family-names: Gupta
+    given-names: Dinesh
+    email: dinesh@icgeb.res.in
+    affiliation: "Translational Bioinformatics Group, International Centre for Genetic Engineering and Biotechnology (ICGEB), New Delhi, India"
+    # orcid: "https://orcid.org/0000-0000-0000-0000"  # TODO: add Dinesh Gupta's ORCID
+version: 1.0.0
+date-released: 2026-07-06
+license: MIT
+repository-code: "https://github.com/Swarnabhabioinfo/autism-classifiable-not-mappable"
+keywords:
+  - autism spectrum disorder
+  - functional connectivity
+  - imaging transcriptomics
+  - ABIDE
+  - spin test
+  - brain-wide association study
+  - reproducibility
+# On publication, add a preferred-citation block (type: article) with the journal DOI.
